@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Hello world';
   foto = 'favicon.ico';
-  peso = 95;
-  altura = 1.87;
+  peso = 0;
+  altura = 0;
   
 
   exibir(){
